@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
-contract MyMonthlyAllowances {
+contract BuyAndSell {
     address public wallet;
     uint256 public buy = 5000; // initial buy value
     uint256 public sell = 5000; // initial sell value
